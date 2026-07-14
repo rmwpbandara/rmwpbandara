@@ -41,3 +41,6 @@ BSc (Hons) in Information Technology & Management, University of Moratuwa.
 - Email: rmwpbandara@gmail.com
 - LinkedIn: [linkedin.com/in/rmwpbandara](https://www.linkedin.com/in/rmwpbandara)
 - GitHub: [@rmwpbandara](https://github.com/rmwpbandara)
+
+<!-- profile readme -->
+
