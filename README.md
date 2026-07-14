@@ -1,14 +1,17 @@
 # Hi, I'm Wasantha Padmasiri 👋
 
-Full-stack developer from Sri Lanka — Faculty of Information Technology, University of Moratuwa.
-I build production web platforms and AI-powered systems, end to end: API design, multi-tenant
-architecture, deployment, and the front ends that sit on top.
+Senior Software Engineer from Sri Lanka — 5+ years building enterprise platforms with
+**Java / Spring Boot microservices** and **Angular**, and AI-powered products with
+**Python / FastAPI, LangGraph, and Claude**. I ship end to end: API design, multi-tenant
+architecture, databases, deployment, and the front ends that sit on top.
+
+BSc (Hons) in Information Technology & Management, University of Moratuwa.
 
 ## 🔨 Highlight projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Slotly](https://github.com/rmwpbandara/slotly-case-study) | Multi-tenant WhatsApp AI booking platform, **in production** with a real salon. I led the core API, tenant web app, and admin app. | Node/API, MySQL (schema-per-tenant), WhatsApp, AI agent |
+| [Slotly](https://github.com/rmwpbandara/slotly-case-study) | Multi-tenant WhatsApp AI booking platform, **in production** with a real salon. I led the core API, tenant web app, and admin app. | Python/FastAPI, MySQL (schema-per-tenant), Next.js, LangGraph, WhatsApp Cloud API |
 | [LucidLaw Triage](https://github.com/rmwpbandara/lucidlaw-triage) | AI legal triage prototype with a [live demo](https://demo1.eseeds.lk) — classifies legal issues and jurisdiction from plain language. | FastAPI, Next.js, Anthropic Claude, Docker |
 | [Exchange Rates Prediction](https://github.com/rmwpbandara/exchange-rates-prediction) | Self-hosted service that tracks and forecasts currency exchange rates on a schedule. | Python, Docker, CI/CD |
 | [eSeeds Common Library](https://github.com/rmwpbandara/common-library) | Shared library for a Spring microservices platform: multi-tenancy, JWT auth, tracing, standardized responses. | Java, Spring Boot, Feign |
@@ -32,4 +35,5 @@ architecture, deployment, and the front ends that sit on top.
 ## 📫 Contact
 
 - Email: rmwpbandara@gmail.com
+- LinkedIn: [linkedin.com/in/rmwpbandara](https://www.linkedin.com/in/rmwpbandara)
 - GitHub: [@rmwpbandara](https://github.com/rmwpbandara)
